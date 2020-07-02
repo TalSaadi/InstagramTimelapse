@@ -1,5 +1,5 @@
 # InstagramTimelapse
-####Instagram time lapse generator using hashtags and locations
+#### Instagram time lapse generator using hashtags and locations
 
 * Pass your requested instagram hashtag
 * A large set of photos will be downloaded from instagram
